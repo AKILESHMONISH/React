@@ -1,0 +1,62 @@
+.A1{
+    color: black;
+    background-color: rgb(254, 35, 6);
+    font-size: larger;
+    font-style: italic;
+    border-radius: 10%;
+    position:relative;
+    right: 250px;
+    top:30px;
+}
+.A2{
+    color: black;
+    background-color: rgb(220, 173, 19);
+    font-size: larger;
+    font-style: italic;
+    border-radius: 10%;
+    position:relative;
+    right: 250px;
+    top:30px;
+}
+.A3{
+    color: black;
+    background-color: rgb(254, 35, 6);
+    font-size: larger;
+    font-style: italic;
+    border-radius: 10%;
+    position:relative;
+    right: 250px;
+    top:75px;
+}
+.A4{
+    color: black;
+    background-color: rgb(220, 173, 19);
+    font-size: larger;
+    font-style: italic;
+    border-radius: 10%;
+    position:relative;
+    right: 250px;
+    top:75px;
+}
+.s1{
+    position: relative;
+    left:100px;
+}
+.s{
+    position: relative;
+    left:100px;
+}
+.s2{
+    position: relative;
+    left:100px;
+    top:50px;
+}
+.s3{
+    position: relative;
+    left:100px;
+    top:50px;
+}
+.P1{
+    position: relative;
+    top:80px;
+}
